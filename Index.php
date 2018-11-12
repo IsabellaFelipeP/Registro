@@ -23,7 +23,7 @@
     <div class = "row">
         <div class = "col-md-8">
             <h3>Acesso do Gerenciador</h3>
-            <form role="form" action="Cliente.php" method="get">
+            <form role="form" action="Cliente.php" method="post">
                 <div class="form-group"> <!--Agrupar elementos de um formulario-->
                     <label for="Nome">
                         Nome:
@@ -46,7 +46,7 @@
                 <div class = "row">
                     <div class = "col-md-4">
                         <h3>Cadastrar Gerenciador</h3>
-                        <form role="form" action="Cliente.php" method="get">
+                        <form role="form" action="Index.php" method="post">
                             <div class="form-group">
                                 <label for="Nome">
                                     Nome:
@@ -74,4 +74,7 @@
 </div>
 
 </body>
+
+<
+
 </html>
