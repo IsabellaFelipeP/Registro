@@ -1,5 +1,13 @@
 <?php
 
+   $usuario = $_POST['Nome'];
+   $senha = $_POST['Senha'];
+
+   echo $usuario;
+   echo '</br>';
+   echo $senha;
+
+/*
 class Cliente
 {
 
@@ -42,13 +50,12 @@ class Cliente
     }
 
 
-    function Dados($nome, $cpf, $endereco){
+/*    function Dados($nome, $cpf, $endereco){
         $dados = array('Isabella', '123123', 'Ricardo Brandão');
 
 
 
-    }
+    } */
 
 
-
-}
+?>
