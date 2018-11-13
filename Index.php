@@ -6,6 +6,7 @@
     <link rel="stylesheet" type="text/css" href="Marcador.css">
     <!--bootstrap - link cdn -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
     <!--jquer - link cdn -->
     <script src ="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 

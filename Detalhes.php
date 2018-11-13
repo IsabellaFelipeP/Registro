@@ -28,14 +28,14 @@
 
 
 <?php
-
+/*
 require_once ("Cliente.php");
 $dados = $_POST ['nome'];
 $dados = $_POST ['cpf'];
 $dados = $_POST ['endereco'];
 
 
-
+*/
 ?>
 
 </html>
